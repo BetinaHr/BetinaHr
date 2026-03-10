@@ -41,7 +41,7 @@ My main focus is backend development with **Node.js**, but I also enjoy working 
 
 * Git & GitHub
 * VS Code
-* Unity (for game development experiments)
+* Unity
 
 ---
 
